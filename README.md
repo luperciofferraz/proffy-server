@@ -1,3 +1,5 @@
 # proffy-server
 
-Projeto server do nlw2 (Agosto/2020)
+Projeto Server (API) do Sistema Proffy
+
+Projeto Server (API) do evento NLW2 - Agosto/2020
